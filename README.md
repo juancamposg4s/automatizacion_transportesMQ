@@ -16,7 +16,7 @@ Familiaridad básica con Python y Google Colab.
 
 3. No es necesario clonar el repositorio en un entorno local. Por el contrario, debe ser ejecutado en el entorno virtual de Google Colab para su correcto funcionamiento.
 
-Enlace a Google Colab
+[Enlace a Google Colab](https://colab.research.google.com/github/juancamposg4s/automatizacion_transportesMQ/blob/main/Transportes_AutomatizadosMJC.ipynb)
 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, sigue los pasos a continuación:
