@@ -1,5 +1,5 @@
 # Automatización Transportes MQ
-Este repositorio contiene el código y el enlace al archivo de Google Colab para automatizar el proceso previo a la legalización de transportes.
+Este repositorio contiene el código y el enlace al archivo de Google Colab para automatizar el proceso previo a la legalización de transportes. Este repositorio se usa como respaldo en caso de pérdida o daño al código.
 
 ## Introducción
 La automatización del proceso anterior a la legalización de transportes puede simplificar y acelerar significativamente este procedimiento. Este proyecto utiliza Google Colab para facilitar su implementación y evitar la necesidad de clonar el repositorio en un entorno local.
